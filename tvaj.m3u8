@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-name="Al-Hijrah" tvg-logo="https://aqfadtv.xyz/logos/TVAlhijrahWhite.png" group-title="Malaysia",114 TV Alhijrah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 312534-2334-2645-2342-6-23-236-34223-1-2-343-43567-4-123-342) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_65df6a407ee011f09f52e16aa310efc6/tracks-v1a1/mono.ts.m3u8
